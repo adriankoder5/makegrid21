@@ -4,8 +4,8 @@ let x = 100;//starting x
 let xm = 100;//x modifier
 let y = 100;//starting y
 let ym = 100;//y modifier
-const ix = 10; 
-const iy = 10;//iteration x & y
+const ix = 10;//iteration x 
+const iy = 10;//iteration x
 
 for (let i=0;i < ix;i++){
     for (let i2=0;i2 < iy;i2++){
