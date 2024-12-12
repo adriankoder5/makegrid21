@@ -17,3 +17,4 @@ for (let i=0;i < ix;i++){
         document.body.appendChild(box);
     }
 }
+// ix iy er lettere å lese en boxColumNumbersOf og boxColumSize for meg
